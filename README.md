@@ -2,7 +2,7 @@
 [Patika.dev](https://www.patika.dev/tr) sitesinin "Javascript" konusunun ödevidir.
 
 ## **PROJENİN GÖRÜNÜMÜ**
-<img src=screen.gif></img>
+<img src=img/screen.gif></img>
 
 
 
